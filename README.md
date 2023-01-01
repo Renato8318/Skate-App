@@ -1,6 +1,3 @@
-# Skate-App
-Uma comunidade de skate
-
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
